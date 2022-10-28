@@ -23,7 +23,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="container copyright">
-                    <p>&copy; <a href="/">Sourbah</a>, All Right Reserved | {new Date().getFullYear()} </p>
+                    <p>&copy; <a href="/">Sourabh </a>, All Right Reserved | {new Date().getFullYear()} </p>
                 </div>
             </div>
         </div>

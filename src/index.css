@@ -219,6 +219,7 @@ a:focus {
   .navbar {
       padding: 15px;
       background: #ffffff !important;
+      display: none;
   }
   
   .navbar .navbar-brand {
@@ -245,10 +246,11 @@ a:focus {
 .hero {
   position: relative;
   width: 100%;
+  height: 100vh;
   margin-bottom: 45px;
   padding: 120px 0 0 0;
   overflow: hidden; /*,rgba(239, 35, 60, .95) rgb(239 237 35 / 95%))*/ 
-  background: linear-gradient( #4000ffef, #fc5304ee ), url(../src/img/hero-bg.jpg);
+  background: linear-gradient( #4000ffe1, #fc6704e0 ), url(../src/img/hero-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
